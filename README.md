@@ -1,3 +1,3 @@
 # TestRepo1
 
-It's just for testing purposes..
+It's just for testing and educational purposes..
